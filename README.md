@@ -1,0 +1,3 @@
+This thing reads a plaintext version of the full marksheet given by the college (I trust anyone using this to be able to find a way to convert the pdf to text), scans through it and and outputs a list of all the students ranked according to their percentages.
+
+This is terrible code, and there are many better ways to do this, but this was a rush job from a while back. It seems to work every semester, and the dataset for the class is very small, so if it ain't broke I have no incentive to fix it as of right now.
